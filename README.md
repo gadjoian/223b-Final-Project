@@ -1,0 +1,1 @@
+This is the final submission repository for the CSE 223b final project. We combined three separate projects, the backend blockchain code, frontend react code, and the geth private network code into this one repository for the convenience of the viewer.

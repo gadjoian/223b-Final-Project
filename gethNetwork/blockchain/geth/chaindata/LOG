@@ -1,0 +1,32 @@
+=============== Jun 11, 2020 (UTC) ===============
+05:03:10.650440 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:03:10.654434 db@open opening
+05:03:10.655598 version@stat F·[] S·0B[] Sc·[]
+05:03:10.657606 db@janitor F·2 G·0
+05:03:10.657635 db@open done T·3.172733ms
+05:03:10.658218 db@close closing
+05:03:10.658270 db@close done T·50.16µs
+=============== Jun 11, 2020 (UTC) ===============
+05:03:16.848639 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:03:16.848860 version@stat F·[] S·0B[] Sc·[]
+05:03:16.848889 db@open opening
+05:03:16.848977 journal@recovery F·1
+05:03:16.851634 journal@recovery recovering @1
+05:03:16.854437 memdb@flush created L0@2 N·12 S·779B "H\xc2)..\xb9\xd36,v5":"sec..f\xff\xe3,v1"
+05:03:16.864580 version@stat F·[1] S·779B[779B] Sc·[0.25]
+05:03:16.871315 db@janitor F·3 G·0
+05:03:16.871343 db@open done T·22.444625ms
+05:39:08.954483 db@close closing
+05:39:08.954669 db@close done T·184.15µs
+=============== Jun 11, 2020 (UTC) ===============
+05:39:51.118989 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:39:51.119191 version@stat F·[1] S·779B[779B] Sc·[0.25]
+05:39:51.119218 db@open opening
+05:39:51.119293 journal@recovery F·1
+05:39:51.122438 journal@recovery recovering @3
+05:39:51.127183 memdb@flush created L0@5 N·756 S·47KiB "\x12\xe5\xf6..\f\x97Q,v769":"\xeel@..\x1f\x14\x06,v767"
+05:39:51.132061 version@stat F·[2] S·48KiB[48KiB] Sc·[0.50]
+05:39:51.139270 db@janitor F·4 G·0
+05:39:51.139305 db@open done T·20.074211ms
+05:45:11.231919 db@close closing
+05:45:11.232293 db@close done T·378.53µs
